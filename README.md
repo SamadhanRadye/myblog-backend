@@ -1,5 +1,4 @@
 
-```markdown
 # MyBlog Backend
 
 This is the **backend** of the MyBlog project built with **Spring Boot** and **MySQL**.  
